@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b29f38717182645621a1b3bc718843146d88f49">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-core-4.39.0_993508b894337c035b2e569f05ab99c62c57a746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_9f214e50eb7948b85033fc3767a051602c6a26d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-android-sdk-4.39.0_fc3ed938323531616337132c3bb541ba0d199718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_9f214e50eb7948b85033fc3767a051602c6a26d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_da2f07a4a971a43cf404ee3c2767abff23aa1282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/gson-2.7_db39a6697d69d73d00c2e757f2b132b6c466cad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fdba52179163763ebd95f594bda3212409610c0">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-share-4.39.0_807d4914b167315d499a5d95300cf95fdf322bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6da9d69b80f3af4232efd5cb17eb2605aa673e70">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-login-4.39.0_27e2731a1221240838c876b147ba0df63153ed48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-marketing/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d281c6314e6cd507339b9987886c25020ac9160">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-marketing-4.39.0_52c4add79b6999cce930dca48aa1da15e505a6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_f160e7aa294e968b068769b061962f48fb53a1fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/common-1.0.0_ea910ad97763cb2c2b9917a235c29622bce8aed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/common-1.0.0_ea910ad97763cb2c2b9917a235c29622bce8aed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_b35a99c4fa1adb1bbe991b12f0231cd026000d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_46b86b1b6e4a0bcadfef0927bd2614913ea96051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_b35a99c4fa1adb1bbe991b12f0231cd026000d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_f540287fb8ea5304c41643407fa0a40cd7348ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_f160e7aa294e968b068769b061962f48fb53a1fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_93e5b93416894f22fba490f911dd1118873c7895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/core-3.3.0_6ac9e1e4237153e9c7c9f577643b4bf37b5fadf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_93e5b93416894f22fba490f911dd1118873c7895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_5a4ea9470fb3d18ea2a6c4d7d6a7d702722806a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/drivernote-master/mupdf-android-master/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2ed235cbf142f5b334e72d63c0479a1f4973a13">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/drivernote-master-mupdf-android-master-unspecified_79b35ef03e8f94ab51eaa51af88b0665f1966b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6294435bc83bbe77d390a6c35bbb4b1fc62c9411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_5a4ea9470fb3d18ea2a6c4d7d6a7d702722806a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_f540287fb8ea5304c41643407fa0a40cd7348ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8484d5b4369cc7ab8d5722290ed25d134afde322">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-places-4.39.0_a7eb2eb3d42577b00dbcf7e8cc8d0dfff003d4fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/core-3.3.0_6ac9e1e4237153e9c7c9f577643b4bf37b5fadf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6294435bc83bbe77d390a6c35bbb4b1fc62c9411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/drivernote-master/mupdf-android-master/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a2ed235cbf142f5b334e72d63c0479a1f4973a13">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/drivernote-master-mupdf-android-master-unspecified_79b35ef03e8f94ab51eaa51af88b0665f1966b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_46b86b1b6e4a0bcadfef0927bd2614913ea96051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_62dd8bbbc6837a0c894b19b1f18611d77fd70aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/common-1.0.3_eab9ed50fe775689ba9936e3eb9fc9fa2e54571d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_e14d08ebd4e284184581eb3861ea239f552f8766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/jsoup-1.10.2_e14d08ebd4e284184581eb3861ea239f552f8766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_62dd8bbbc6837a0c894b19b1f18611d77fd70aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.android.volley-volley-1.0.0_03ba90eec30b9f6f687a205508ce272750a99875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_2e178fe6f0b1b73b0e3e410cd7da5fbca6a78a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_2e178fe6f0b1b73b0e3e410cd7da5fbca6a78a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_eda3fdfa97c05abac99ac22422052a0c03dad08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_ada401bdb1fe02caf96d79e579bfd1973b1f0b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_e1f2022eb253d5ffc0c8c194d02568131cd02777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/common-1.0.3_eab9ed50fe775689ba9936e3eb9fc9fa2e54571d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_03ba90eec30b9f6f687a205508ce272750a99875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_b8e3aff3b21fc31530e61b370e019b635527188a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_ada401bdb1fe02caf96d79e579bfd1973b1f0b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/gson-2.7_db39a6697d69d73d00c2e757f2b132b6c466cad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51439f5fd81208cae8623ce21acd1ca7a73a3d33">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-applinks-4.39.0_3d56ff914cb3ba879575ffa89425b5e47a976615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_2144e32bfec4079d8ddfbb2f196e2acdc065d892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_eda3fdfa97c05abac99ac22422052a0c03dad08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_93268e2392f34ccbb41efca651cef308455f1b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/libs/json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/json-simple-1.1.1_7724ce1815f30747976b8fc3c0ca2081aac41bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_b8e3aff3b21fc31530e61b370e019b635527188a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_93268e2392f34ccbb41efca651cef308455f1b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-messenger-4.39.0_1b72db1c5267beea9703992f35bee3306834f1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_e1f2022eb253d5ffc0c8c194d02568131cd02777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/libs/json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/json-simple-1.1.1_7724ce1815f30747976b8fc3c0ca2081aac41bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.39.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="924cf75ca3a2993ef180d8445d5202fbfe8bbb4b">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/release/com.facebook.android-facebook-common-4.39.0_5cd6cfbe18a78f3a7c30a2e7b1729cbb9d97cc84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_da2f07a4a971a43cf404ee3c2767abff23aa1282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/phamvietsontay/Desktop/TNLStore/App/Cam Nang Lai Xe/Source/Android/drivernote-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_2144e32bfec4079d8ddfbb2f196e2acdc065d892.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cẩm nang người lái xe</string>
+    <string name="ads_id">ca-app-pub-3669761949184169/3974197136</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Cẩm nang người lái xe</string>
+    <string name="nghi_dinh_bon_sau">NGHỊ ĐỊNH 46/2016/NĐCP</string>
+    <string name="tham_quyen_xu_phat">THẨM QUYỀN XỬ PHẠT</string>
+    <string name="mot_so_dieu_phat">MỘT SỐ ĐIỀU PHẠT THƯỜNG GẶP</string>
+    <string name="mot_so_loi_phat">MỘT SỐ LỖI PHẠT THƯỜNG GẶP</string>
+    <string name="thong_tu_01">THÔNG TƯ 01/2016/TT-BCA</string>
+    <string name="facebook_app_id">2084616268516662</string>
+</resources>
